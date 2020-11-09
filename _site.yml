@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Ecom Iphone Preorder"
 navbar:
-  title: "MyLabJournal"
+  title: "Ecom Iphone Preorder"
   left:
     - text: "Home"
       href: index.html
